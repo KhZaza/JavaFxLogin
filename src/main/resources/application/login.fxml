@@ -15,7 +15,7 @@
     <right>
         <AnchorPane prefHeight="400.0" prefWidth="332.0" style="-fx-background-color: #FFFFFF;" BorderPane.alignment="CENTER">
             <children>
-                <ImageView fx:id="lockImageView" fitHeight="75.0" fitWidth="132.0" layoutX="141.0" layoutY="31.0" pickOnBounds="true" preserveRatio="true">
+                <ImageView fx:id="lockImageView" fitHeight="75.0" fitWidth="132.0" layoutX="137.0" layoutY="30.0" pickOnBounds="true" preserveRatio="true">
                     <image>
                         <Image url="@color-lock-logo-icon-sign-padlock-white-background-color-lock-logo-icon-sign-padlock-148306430.jpg" />
                     </image>
@@ -47,6 +47,7 @@
                         <Font size="15.0" />
                     </font>
                 </Label>
+            <Button fx:id="resetPassword" layoutX="120.0" layoutY="355.0" mnemonicParsing="false" onAction="#resetPassword" prefHeight="25.0" prefWidth="111.0" style="-fx-background-color: #a6051a;" text="Reset Password" textFill="WHITE" />
             </children>
         </AnchorPane>
     </right>

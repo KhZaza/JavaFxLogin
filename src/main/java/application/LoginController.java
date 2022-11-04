@@ -65,6 +65,11 @@ public class LoginController implements Initializable {
 
     }
 
+    public void resetPassword(){
+        System.out.println("Reset Password");
+
+    }
+
 
 
 }
