@@ -17,7 +17,7 @@
             <children>
                 <ImageView fitHeight="75.0" fitWidth="132.0" layoutX="141.0" layoutY="31.0" pickOnBounds="true" preserveRatio="true">
                     <image>
-                        <Image url="@../../../../../../team-03-02/src/main/resources/application/color-lock-logo-icon-sign-padlock-white-background-color-lock-logo-icon-sign-padlock-148306430.jpg" />
+                        <Image url="@color-lock-logo-icon-sign-padlock-white-background-color-lock-logo-icon-sign-padlock-148306430.jpg" />
                     </image>
                 </ImageView>
                 <Label layoutX="35.0" layoutY="155.0" prefHeight="21.0" prefWidth="85.0" text="Username">
